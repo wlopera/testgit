@@ -3,5 +3,4 @@ Prueba #2
 Prueba #3
 Pruebas de remoto
 Prueba de GIT Pull
-Rama prueba solamente
-Cambio temporal
+Cambio temporal 2
